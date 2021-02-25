@@ -54,7 +54,8 @@ Peer-to-peer system for efficient file sharing task supporting multiple peers to
 
 -  Working under heterogeneous devices
 
-![image](https://user-images.githubusercontent.com/46133803/109122083-16f20600-776e-11eb-9b72-3e234f99b500.png)
+![1](https://user-images.githubusercontent.com/46133803/109122316-66d0cd00-776e-11eb-99d0-168bd011c20e.png)
+
 
 #### CornerCases
 - What happens to the peer information at tracker when peer disconnects?
