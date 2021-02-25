@@ -42,6 +42,9 @@ Peer-to-peer system for efficient file sharing task supporting multiple peers to
     # py peer.py
 ```
 
+![9](https://user-images.githubusercontent.com/46133803/109121371-291f7480-776d-11eb-97bb-08e44b92cb8b.png)
+
+---
 
 ## Module 3: Corner Cases and flexible features
 
@@ -53,4 +56,11 @@ Peer-to-peer system for efficient file sharing task supporting multiple peers to
 - What happens if one peer gets disconnected while sharing a file with another peer?
 - What happens if one of the peers goes down while file sharing from multiple peers to one peer?
 
+![1](https://user-images.githubusercontent.com/46133803/109120742-57508480-776c-11eb-9e63-52384f65a600.jpg)
+
 ---
+
+#### NOTE: Run the IP.py file to change the corresponding IP address of wifi interface
+
+## Demo
+[LINK](https://drive.google.com/drive/folders/14uxCkKPaWneU1bpen1CoSMZt1STIS8Bf?usp=sharing) 
