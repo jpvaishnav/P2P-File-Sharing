@@ -49,7 +49,12 @@ Peer-to-peer system for efficient file sharing task supporting multiple peers to
 ## Module 3: Corner Cases and flexible features
 
 -  Flexibility during the change of wifi
+
+![2](https://user-images.githubusercontent.com/46133803/109121846-cc708980-776d-11eb-91fb-c94f516bf115.png)
+
 -  Working under heterogeneous devices
+
+![image](https://user-images.githubusercontent.com/46133803/109122083-16f20600-776e-11eb-9b72-3e234f99b500.png)
 
 #### CornerCases
 - What happens to the peer information at tracker when peer disconnects?
