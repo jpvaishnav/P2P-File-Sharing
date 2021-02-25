@@ -56,7 +56,7 @@ Peer-to-peer system for efficient file sharing task supporting multiple peers to
 - What happens if one peer gets disconnected while sharing a file with another peer?
 - What happens if one of the peers goes down while file sharing from multiple peers to one peer?
 
-![1](https://user-images.githubusercontent.com/46133803/109120742-57508480-776c-11eb-9e63-52384f65a600.jpg)
+
 
 ---
 
